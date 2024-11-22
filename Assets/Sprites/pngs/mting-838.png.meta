@@ -1,0 +1,2250 @@
+fileFormatVersion: 2
+guid: 21e12c0316fabae4b9fef967d403332b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2998762638471937300
+    second: mting-838_0
+  - first:
+      213: 6075685325295348991
+    second: mting-838_1
+  - first:
+      213: 8736452861749516590
+    second: mting-838_2
+  - first:
+      213: -3169926904736854081
+    second: mting-838_3
+  - first:
+      213: -3385939173989423615
+    second: mting-838_4
+  - first:
+      213: -5208236096908681056
+    second: mting-838_5
+  - first:
+      213: -8703281674622978982
+    second: mting-838_6
+  - first:
+      213: -5509818432167803393
+    second: mting-838_7
+  - first:
+      213: 5320475183707016709
+    second: mting-838_8
+  - first:
+      213: 6973728350992156162
+    second: mting-838_9
+  - first:
+      213: 2143936769588791021
+    second: mting-838_10
+  - first:
+      213: 6324021172690835589
+    second: mting-838_11
+  - first:
+      213: 1994658545361983387
+    second: mting-838_12
+  - first:
+      213: -8701864567989472715
+    second: mting-838_13
+  - first:
+      213: 6523905610645297902
+    second: mting-838_14
+  - first:
+      213: 7888166179820154263
+    second: mting-838_15
+  - first:
+      213: -950164860901634602
+    second: mting-838_16
+  - first:
+      213: -3327756485694298337
+    second: mting-838_17
+  - first:
+      213: -5997714366270320388
+    second: mting-838_18
+  - first:
+      213: 8102489609632951502
+    second: mting-838_19
+  - first:
+      213: -3168150505346779636
+    second: mting-838_20
+  - first:
+      213: -7031709361755580024
+    second: mting-838_21
+  - first:
+      213: -5480785554671769121
+    second: mting-838_22
+  - first:
+      213: -6019730088901170048
+    second: mting-838_23
+  - first:
+      213: 2693348981851360095
+    second: mting-838_24
+  - first:
+      213: 525382856698104484
+    second: mting-838_25
+  - first:
+      213: -4797398644324805349
+    second: mting-838_26
+  - first:
+      213: -1135748990582143892
+    second: mting-838_27
+  - first:
+      213: 1356801670049986531
+    second: mting-838_28
+  - first:
+      213: 5950241076073969078
+    second: mting-838_29
+  - first:
+      213: 1102682645418950491
+    second: mting-838_30
+  - first:
+      213: 3146736066317484834
+    second: mting-838_31
+  - first:
+      213: -641203929479936476
+    second: mting-838_32
+  - first:
+      213: -3390127584171390800
+    second: mting-838_33
+  - first:
+      213: 3444602383048500990
+    second: mting-838_34
+  - first:
+      213: -8397794013916681991
+    second: mting-838_35
+  - first:
+      213: -1991491757920902776
+    second: mting-838_36
+  - first:
+      213: 2850659682846673380
+    second: mting-838_37
+  - first:
+      213: 6246111888716624145
+    second: mting-838_38
+  - first:
+      213: -5544388460175030715
+    second: mting-838_39
+  - first:
+      213: -4994370422962284779
+    second: mting-838_40
+  - first:
+      213: 105991406569405683
+    second: mting-838_41
+  - first:
+      213: 8656933963025952265
+    second: mting-838_42
+  - first:
+      213: -3026077103923424144
+    second: mting-838_43
+  - first:
+      213: 7949596164780388738
+    second: mting-838_44
+  - first:
+      213: 1968263857157692827
+    second: mting-838_45
+  - first:
+      213: 4025440239093182471
+    second: mting-838_46
+  - first:
+      213: 471024190276880275
+    second: mting-838_47
+  - first:
+      213: -5026278902439089071
+    second: mting-838_48
+  - first:
+      213: 370843701469675436
+    second: mting-838_49
+  - first:
+      213: 1715253337170348576
+    second: mting-838_50
+  - first:
+      213: 6576174598997472850
+    second: mting-838_51
+  - first:
+      213: 5842826437908126223
+    second: mting-838_52
+  - first:
+      213: -8887632247457116165
+    second: mting-838_53
+  - first:
+      213: -5616597757157052945
+    second: mting-838_54
+  - first:
+      213: 471065421850138217
+    second: mting-838_55
+  - first:
+      213: 7773798603870478371
+    second: mting-838_56
+  - first:
+      213: -1368562944194821802
+    second: mting-838_57
+  - first:
+      213: -3731208055851774894
+    second: mting-838_58
+  - first:
+      213: -3224626182559951576
+    second: mting-838_59
+  - first:
+      213: 2788790483223858535
+    second: mting-838_60
+  - first:
+      213: 1024520761443187205
+    second: mting-838_61
+  - first:
+      213: -1165127686867222129
+    second: mting-838_62
+  - first:
+      213: 3956291551290033824
+    second: mting-838_63
+  - first:
+      213: -5700401755260860736
+    second: mting-838_64
+  - first:
+      213: 8528799148121279182
+    second: mting-838_65
+  - first:
+      213: -8262650419826463211
+    second: mting-838_66
+  - first:
+      213: 1771858355466617057
+    second: mting-838_67
+  - first:
+      213: -291494901309881527
+    second: mting-838_68
+  - first:
+      213: -8578843501539169417
+    second: mting-838_69
+  - first:
+      213: -372869629960136512
+    second: mting-838_70
+  - first:
+      213: -7693932463861553337
+    second: mting-838_71
+  - first:
+      213: 1548539582683953062
+    second: mting-838_72
+  - first:
+      213: -9016173484891362588
+    second: mting-838_73
+  - first:
+      213: -6607775790980100963
+    second: mting-838_74
+  - first:
+      213: 9031077083207595982
+    second: mting-838_75
+  - first:
+      213: 2723237150093578254
+    second: mting-838_76
+  - first:
+      213: -3638367141105008441
+    second: mting-838_77
+  - first:
+      213: 3912636252018324657
+    second: mting-838_78
+  - first:
+      213: -4496061740919738706
+    second: mting-838_79
+  - first:
+      213: 1150399672797377277
+    second: mting-838_80
+  - first:
+      213: 6055600552386772258
+    second: mting-838_81
+  - first:
+      213: -3700473724656001189
+    second: mting-838_82
+  - first:
+      213: -8230831724969416149
+    second: mting-838_83
+  - first:
+      213: -5412569998090790120
+    second: mting-838_84
+  - first:
+      213: -7773956947327929424
+    second: mting-838_85
+  - first:
+      213: -7349895902014749919
+    second: mting-838_86
+  - first:
+      213: 1812572812377741393
+    second: mting-838_87
+  - first:
+      213: -2920901439877555345
+    second: mting-838_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mting-838_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d35d74bbebd9920800000000000000
+      internalID: 2998762638471937300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 185
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc684dec9b215450800000000000000
+      internalID: 6075685325295348991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 73
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29568d079d1e3970800000000000000
+      internalID: 8736452861749516590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 173
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfc43f66482204d0800000000000000
+      internalID: -3169926904736854081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 181
+        width: 156
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e74fb24ab201d0800000000000000
+      internalID: -3385939173989423615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 181
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a024614dd0a8b7b0800000000000000
+      internalID: -5208236096908681056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 176
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543eebcd6bb73780800000000000000
+      internalID: -8703281674622978982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff50db504513983b0800000000000000
+      internalID: -5509818432167803393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 176
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e43219dff16d940800000000000000
+      internalID: 5320475183707016709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 182
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20645f0acf8a7c060800000000000000
+      internalID: 6973728350992156162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de60d34022bc0cd10800000000000000
+      internalID: 2143936769588791021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 203
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588594e10cf63c750800000000000000
+      internalID: 6324021172690835589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b979f7cf0637eab10800000000000000
+      internalID: 1994658545361983387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 180
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532fd65a744cc3780800000000000000
+      internalID: -8701864567989472715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 192
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eead0b67691998a50800000000000000
+      internalID: 6523905610645297902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d2e65e855687d60800000000000000
+      internalID: 7888166179820154263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 174
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd46ebd71650d2f0800000000000000
+      internalID: -950164860901634602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 175
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1760338b1f61d1d0800000000000000
+      internalID: -3327756485694298337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 186
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05336af86d3cca0800000000000000
+      internalID: -5997714366270320388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 195
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc27720f53d17070800000000000000
+      internalID: 8102489609632951502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b4d5a6e77804d0800000000000000
+      internalID: -3168150505346779636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 206
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88915c057995a6e90800000000000000
+      internalID: -7031709361755580024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd962b3939650f3b0800000000000000
+      internalID: -5480785554671769121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 176
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca057c06f957ca0800000000000000
+      internalID: -6019730088901170048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 173
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b096701a2b06520800000000000000
+      internalID: 2693348981851360095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa0290bce88a4700800000000000000
+      internalID: 525382856698104484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 84
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b155417c9573c6db0800000000000000
+      internalID: -4797398644324805349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64c75e7f420d30f0800000000000000
+      internalID: -1135748990582143892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 166
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77cf52ee354d210800000000000000
+      internalID: 1356801670049986531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 147
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5b353abb0839250800000000000000
+      internalID: 5950241076073969078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 143
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f3f2416048d4f00800000000000000
+      internalID: 1102682645418950491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22383cab7c37bab20800000000000000
+      internalID: 3146736066317484834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 146
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42683c26c6cf917f0800000000000000
+      internalID: -641203929479936476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 139
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b806328ce8d3f0d0800000000000000
+      internalID: -3390127584171390800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6e11afd9fadcf20800000000000000
+      internalID: 3444602383048500990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 128
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8289776da057b80800000000000000
+      internalID: -8397794013916681991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 131
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a10c2ccccc54e0800000000000000
+      internalID: -1991491757920902776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 133
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e98a9bc0e39f8720800000000000000
+      internalID: 2850659682846673380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 97
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117c426ba5aea650800000000000000
+      internalID: 6246111888716624145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 110
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5460e7622106e03b0800000000000000
+      internalID: -5544388460175030715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179d96cf8e60bab0800000000000000
+      internalID: -4994370422962284779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc30d96f9e887100800000000000000
+      internalID: 105991406569405683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e2d2ea29b932870800000000000000
+      internalID: 8656933963025952265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07493b528e63106d0800000000000000
+      internalID: -3026077103923424144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281fa85d793a25e60800000000000000
+      internalID: 7949596164780388738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 79
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ddf1ebc8da05b10800000000000000
+      internalID: 1968263857157692827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70076bbd19c3dd730800000000000000
+      internalID: 4025440239093182471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c116610a698600800000000000000
+      internalID: 471024190276880275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce316f7f11f3ab0800000000000000
+      internalID: -5026278902439089071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7a45b160852500800000000000000
+      internalID: 370843701469675436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a87d582ddcdc710800000000000000
+      internalID: 1715253337170348576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256f03aa4f3434b50800000000000000
+      internalID: 6576174598997472850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a56cb40b3e51150800000000000000
+      internalID: 5842826437908126223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff03044f89c8a480800000000000000
+      internalID: -8887632247457116165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede56e0916dd02b0800000000000000
+      internalID: -5616597757157052945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d85f518f898600800000000000000
+      internalID: 471065421850138217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a02394a412eb60800000000000000
+      internalID: 7773798603870478371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 65
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514182d043e10de0800000000000000
+      internalID: -1368562944194821802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c01efba06183cc0800000000000000
+      internalID: -3731208055851774894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 76
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825171f5293df33d0800000000000000
+      internalID: -3224626182559951576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d4c893b26c3b620800000000000000
+      internalID: 2788790483223858535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a75d25434d73e00800000000000000
+      internalID: 1024520761443187205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 60
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818e4aba82a4dfe0800000000000000
+      internalID: -1165127686867222129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_63
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6858e543297e630800000000000000
+      internalID: 3956291551290033824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 56
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6c9ac3eca14e0b0800000000000000
+      internalID: -5700401755260860736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_65
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4c6043a16c5670800000000000000
+      internalID: 8528799148121279182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 52
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ee207783b255d80800000000000000
+      internalID: -8262650419826463211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e045ed59c7e69810800000000000000
+      internalID: 1771858355466617057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94346918ee664fbf0800000000000000
+      internalID: -291494901309881527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77be61bb943d1f880800000000000000
+      internalID: -8578843501539169417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d1be0c0d43daf0800000000000000
+      internalID: -372869629960136512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_71
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747afa53039a93590800000000000000
+      internalID: -7693932463861553337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 64
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a73282cb848d7510800000000000000
+      internalID: 1548539582683953062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea21c73cfd10e280800000000000000
+      internalID: -9016173484891362588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c84377de67c44a0800000000000000
+      internalID: -6607775790980100963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec772cb22c4d45d70800000000000000
+      internalID: 9031077083207595982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00997a72c1eac520800000000000000
+      internalID: 2723237150093578254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c08bffac5ce18dc0800000000000000
+      internalID: -3638367141105008441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b43ed0f0f97c4630800000000000000
+      internalID: 3912636252018324657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_79
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae2144faa7ca91c0800000000000000
+      internalID: -4496061740919738706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df230d6486a07ff00800000000000000
+      internalID: 1150399672797377277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 53
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3ca25e90d90450800000000000000
+      internalID: 6055600552386772258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 16
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f563dd0c645acc0800000000000000
+      internalID: -3700473724656001189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_83
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 113
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aae2ba72636cd80800000000000000
+      internalID: -8230831724969416149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 26
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b9cd58340b2e4b0800000000000000
+      internalID: -5412569998090790120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b657385b5d1490800000000000000
+      internalID: -7773956947327929424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_86
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cf485e9ceff990800000000000000
+      internalID: -7349895902014749919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1585e439e5d872910800000000000000
+      internalID: 1812572812377741393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mting-838_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bdb24bd9fd677d0800000000000000
+      internalID: -2920901439877555345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
